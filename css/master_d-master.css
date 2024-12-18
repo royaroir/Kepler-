@@ -1,0 +1,134 @@
+#u9984
+{
+	position: fixed;
+	background: url("../images/u9984_states.png") no-repeat 0px 0px;
+}
+
+#u9984:hover #u9984_states
+{
+	background: url("../images/u9984_states-r.png") no-repeat 0px 0px;
+}
+
+#u9984.MuseLinkActive #u9984_states
+{
+	background: url("../images/u9984_states-a.png") no-repeat 0px 0px;
+}
+
+#u9985
+{
+	position: fixed;
+	background: url("../images/u9985_states.png") no-repeat 0px 0px;
+}
+
+#u9985:hover #u9985_states
+{
+	background: url("../images/u9985_states-r.png") no-repeat 0px 0px;
+}
+
+#u9985.MuseLinkActive #u9985_states
+{
+	background: url("../images/u9985_states-a.png") no-repeat 0px 0px;
+}
+
+#u9986
+{
+	position: fixed;
+	background: url("../images/u9986_states.png") no-repeat 0px 0px;
+}
+
+#u9986:hover #u9986_states
+{
+	background: url("../images/u9986_states-r.png") no-repeat 0px 0px;
+}
+
+#u9986.MuseLinkActive #u9986_states
+{
+	background: url("../images/u9986_states-a.png") no-repeat 0px 0px;
+}
+
+#u9987
+{
+	position: fixed;
+	background: url("../images/u9987_states.png") no-repeat 0px 0px;
+}
+
+#u9987:hover #u9987_states
+{
+	background: url("../images/u9987_states-r.png") no-repeat 0px 0px;
+}
+
+#u9987.MuseLinkActive #u9987_states
+{
+	background: url("../images/u9987_states-a.png") no-repeat 0px 0px;
+}
+
+#u9988
+{
+	position: fixed;
+	background: url("../images/u9988_states.png") no-repeat 0px 0px;
+}
+
+#u9988:hover #u9988_states
+{
+	background: url("../images/u9988_states-r.png") no-repeat 0px 0px;
+}
+
+#u9988.MuseLinkActive #u9988_states
+{
+	background: url("../images/u9988_states-a.png") no-repeat 0px 0px;
+}
+
+#u9989
+{
+	position: fixed;
+	background: url("../images/u9989_states.png") no-repeat 0px 0px;
+}
+
+#u9989:hover #u9989_states
+{
+	background: url("../images/u9989_states-r.png") no-repeat 0px 0px;
+}
+
+#u9989.MuseLinkActive #u9989_states
+{
+	background: url("../images/u9989_states-a.png") no-repeat 0px 0px;
+}
+
+#u9996
+{
+	position: fixed;
+	background: url("../images/u9996_states.png") no-repeat 0px 0px;
+}
+
+#u9984_states,#u9985_states,#u9986_states,#u9987_states,#u9988_states,#u9989_states,#u9996_states
+{
+	vertical-align: top;
+}
+
+#u9996:hover #u9996_states
+{
+	background: url("../images/u9996_states-r.png") no-repeat 0px 0px;
+}
+
+#u9996.MuseLinkActive #u9996_states
+{
+	background: url("../images/u9996_states-a.png") no-repeat 0px 0px;
+}
+
+#u9982
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u9990,#u9992,#u9991,#u9994,#u9993,#u9995
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.58;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=57.99999999999999)";
+	filter: alpha(opacity=57.99999999999999);
+	position: fixed;
+}
+
